@@ -34,7 +34,7 @@ Done!
 
 ##Software
 
-I'm going to assume you have have some way to get a terminal on the Raspberry Pi A+. It may be worth initially setting up the SD card on a 
+I'm going to assume you have have some way to get a terminal on the Raspberry Pi A+. It may be worth initially setting up the SD card on a Model B for the built in Ethernet port.
 
 ###WiFi set up
 
